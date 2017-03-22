@@ -1,6 +1,6 @@
 # Robot
     Rule-base expert system for a  robot path finder.
-    Ecoplse Java project.
+    Eclipse Java project.
 Introduction:
 This project use Rule-base expert system to help robot to make the decision on the current situation in order to find the path to the exit in a maze map.
 
